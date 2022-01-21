@@ -1,0 +1,13 @@
+{
+    "name": "weatherapi-hx",
+    "description": "An API wrapper for WeatherAPI.",
+    "version": "0.0.1",
+    "license": "MIT",
+	"url": "https://github.com/itsamedood",
+	"tags": ["weather", "api", "wrapper", "api-wrapper"],
+	"classPath": "src",
+	"main": "test.Test",
+	"dependencies": {},
+	"contributors": ["itsamedood"],
+	"releasenote": "Initial release."
+}

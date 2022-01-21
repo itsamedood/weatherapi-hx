@@ -1,0 +1,3 @@
+--class-path ./src
+--main test.Test
+--neko bin/wapi.n
